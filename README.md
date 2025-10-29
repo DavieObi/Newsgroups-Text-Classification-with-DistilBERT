@@ -21,11 +21,6 @@ To run the code, you'll need Python and the following libraries:
 * `scikit-learn`
 * `numpy`
 
-You can install them using pip:
-
-```bash
-pip install torch transformers scikit-learn numpy
-
 ## 📂 Dataset
 
 The project uses the **20 Newsgroups dataset**, which is automatically loaded using `sklearn.datasets.fetch_20newsgroups`.
