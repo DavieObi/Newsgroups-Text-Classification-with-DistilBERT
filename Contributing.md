@@ -1,23 +1,23 @@
-# Contributing to 50-Startups-Profit-Analysis-and-Predictive-Modelling
+# Contributing to Newsgroups-Text-Classification-with-DistilBERT
 
 Thank you for your interest in contributing to this project!  
-This open-source project focuses on analysing startup expenditures (R&D, Administration, Marketing, and State) using the classic “50 Startups” dataset and building predictive models for profit. Your contributions, big or small, are warmly welcome.
+This open-source repository is focused on text classification of the 20 Newsgroups dataset using the DistilBERT transformer model. Whether you are an NLP enthusiast, a data scientist, or simply curious, your contributions are very welcome.
 
 
 
 ## 🏆 How You Can Contribute
 
-- **Data Enhancements**: Add more datasets, extend historical data, refine cleaning and preprocessing.  
-- **Model Development**: Introduce additional predictive modelling techniques (e.g., Ridge, Lasso, Decision Tree, Random Forest), compare outcomes, improve metrics.  
-- **Visualisations**: Create compelling charts, dashboards or interactive visuals to better illustrate relationships and model results.  
-- **Documentation**: Improve clarity in README, add walkthroughs, usage examples, dataset descriptions, and how-to guides.  
-- **Bug Fixes & Optimisations**: Fix any code issues, streamline model performance, ensure reproducibility, clean up notebooks.
+- **Data Enhancements**: Add further preprocessing pipelines, include additional datasets or refine existing cleaning methods.  
+- **Model Improvements**: Experiment with different transformer architectures, hyperparameter tuning, ensemble methods or performance benchmarking.  
+- **Visualization & Analysis**: Create new plots, confusion matrices, classification reports, or interactive dashboards to better illustrate model performance.  
+- **Documentation**: Improve the README, add step-by-step guides, usage examples, tutorials or notebook walkthroughs.  
+- **Testing & Validation**: Ensure reproducibility, add unit tests, document evaluation metrics clearly, or optimize for deployment.
 
 
 
 ## 🚀 Getting Started
 
-1. **Fork** the repository to your GitHub account.  
-2. **Clone** your fork locally:
+1. Fork this repository into your GitHub account.  
+2. Clone your fork locally:
    ```bash
-   git clone https://github.com/<DavidObi>/50-Startups-Profit-Analysis-and-Predictive-Modelling.git
+   git clone https://github.com/<DavidObi>/Newsgroups-Text-Classification-with-DistilBERT.git
